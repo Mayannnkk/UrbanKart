@@ -45,9 +45,9 @@ Website: https://urbankart.netlify.app/
 
 - **Responsive Design:** Optimized for both desktop and mobile devices.
 
-  <img width="33%" alt="" src="https://github.com/user-attachments/assets/89cd748e-a5a3-41f9-8c93-bab941e42ebb">
-  <img width="33%" alt="" src="https://github.com/user-attachments/assets/0033c77a-49b3-4b17-b157-a4c91d25dca8">
-  <img width="33%" alt="" src="https://github.com/user-attachments/assets/7d5e6ce2-3c83-490d-9333-03fb0d3c924f">
+  <img width="32%" alt="" src="https://github.com/user-attachments/assets/89cd748e-a5a3-41f9-8c93-bab941e42ebb">
+  <img width="32%" alt="" src="https://github.com/user-attachments/assets/0033c77a-49b3-4b17-b157-a4c91d25dca8">
+  <img width="32%" alt="" src="https://github.com/user-attachments/assets/7d5e6ce2-3c83-490d-9333-03fb0d3c924f">
 
 
 ##  **Admin Panel Features:**
