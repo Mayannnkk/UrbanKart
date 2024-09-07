@@ -23,8 +23,8 @@ Website: https://urbankart.netlify.app/
 
 - **User Authentication:** Secure login and registration system using Firebase Authentication.
   
-  <img width="430" alt="" src="https://github.com/user-attachments/assets/9f1ef3a7-8522-4220-8182-f2e9cede56f4">
-  <img width="430" alt="" src="https://github.com/user-attachments/assets/6168ec02-145c-4c48-b943-eb2b09f6ca64">
+  <img width="46%" alt="" src="https://github.com/user-attachments/assets/9f1ef3a7-8522-4220-8182-f2e9cede56f4">
+  <img width="46%" alt="" src="https://github.com/user-attachments/assets/6168ec02-145c-4c48-b943-eb2b09f6ca64">
 
 - **Product Browsing:** Users can browse through various categories of products.
 - **Search and Filtering:** Products can be searched and filtered based on keywords and categories.
@@ -45,9 +45,9 @@ Website: https://urbankart.netlify.app/
 
 - **Responsive Design:** Optimized for both desktop and mobile devices.
 
-  <img width="250" alt="" src="https://github.com/user-attachments/assets/89cd748e-a5a3-41f9-8c93-bab941e42ebb">
-  <img width="250" alt="" src="https://github.com/user-attachments/assets/0033c77a-49b3-4b17-b157-a4c91d25dca8">
-  <img width="250" alt="" src="https://github.com/user-attachments/assets/7d5e6ce2-3c83-490d-9333-03fb0d3c924f">
+  <img width="30%" alt="" src="https://github.com/user-attachments/assets/89cd748e-a5a3-41f9-8c93-bab941e42ebb">
+  <img width="30%" alt="" src="https://github.com/user-attachments/assets/0033c77a-49b3-4b17-b157-a4c91d25dca8">
+  <img width="30%" alt="" src="https://github.com/user-attachments/assets/7d5e6ce2-3c83-490d-9333-03fb0d3c924f">
 
 
 ##  **Admin Panel Features:**
