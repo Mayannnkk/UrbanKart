@@ -26,4 +26,4 @@ UrbanKart is a full-stack e-commerce web application designed to provide users w
   - **Firebase Firestore:** For managing product data and user information.
   - **Firebase Authentication:** For user authentication and session management.
 
-
+<img width="500" alt="na src="https://github.com/user-attachments/assets/670bbb41-5f98-4fd8-9419-1c3536c555bb" >
