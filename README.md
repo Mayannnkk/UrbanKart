@@ -4,7 +4,9 @@
 
 UrbanKart is a full-stack e-commerce web application designed to provide users with a seamless and user-friendly online shopping experience. The website allows users to browse products, search and filter them, add items to the cart, and proceed with purchases. The project focuses on creating a responsive and clean interface, optimizing performance, and ensuring a smooth user experience.
 
-<img width="900" alt="" src="https://github.com/user-attachments/assets/670bbb41-5f98-4fd8-9419-1c3536c555bb">
+Website: https://urbankart.netlify.app/
+
+<img width="1000" alt="" src="https://github.com/user-attachments/assets/670bbb41-5f98-4fd8-9419-1c3536c555bb">
 
 ## **Tech Stack**
 
